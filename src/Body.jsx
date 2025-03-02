@@ -16,7 +16,7 @@ function FactSection(){
     <>
     <div className="catfact-section">
         <div className="fact-header">
-            <img src='/src/assets/MeowFact-Photoroom.png' alt="MeowFactLogo" />
+            <img src='\src\assets\MeowFact-Photoroom.png' alt="MeowFactLogo" />
             <h1>Unleashing Pawsome Facts, One Meow at a Time! 🐾😺</h1>
         
         </div>
